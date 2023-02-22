@@ -1,0 +1,10 @@
+#,Name,Primary_Type,Secondary_Type,HP,PP,Defense,Speed
+1,Bulbasaur,GRASS,POISON,45,49,49,45
+2,Ivysaur,GRASS,POISON,60,62,63,60
+3,Venusaur,GRASS,POISON,80,82,83,80
+4,Charmander,FIRE,,39,52,43,65
+5,Charmeleon,FIRE,,58,64,58,80
+6,Charizard,FIRE,FLYING,78,84,78,100
+7,Squirtle,WATER,,44,48,65,43
+8,Wartortle,WATER,,59,63,80,58
+9,Blastoise,WATER,,79,83,100,78
